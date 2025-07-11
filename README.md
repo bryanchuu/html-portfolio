@@ -1,2 +1,2 @@
 # html-portfolio
-HTML Porfolio Project from Angela Yu's Fullstack Development Bootcamp
+Personal HTML Porfolio Project from Angela Yu's Fullstack Development Bootcamp
